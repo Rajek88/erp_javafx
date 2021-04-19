@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-javaflow-20060411">
+    <CLASSES>
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/commons-javaflow-20060411.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/mysql-connector-java-5.1.39-bin.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/commons-logging-1.1.1.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/jfoenix-8.0.7.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/jasperreports-6.2.0.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/jasperreports-javaflow-6.2.0.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/commons-digester-2.1.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/core-3.3.0.jar!/" />
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/commons-collections-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/LOCAL_DISK_F/UDEMY AND INTERNSHALA COURSES/JavaFX_All/ERPSystemJwelersV1/libraries/core-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

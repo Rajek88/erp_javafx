@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-fontawesome-4.7.0-1">
+    <CLASSES>
+      <root url="jar://D:/LOCAL_DISK_D/JAVA/Libraries/fontawesomefx-fontawesome-4.7.0-1.jar!/" />
+      <root url="jar://D:/LOCAL_DISK_D/JAVA/Libraries/fontawesomefx-commons-8.13.jar!/" />
+      <root url="jar://D:/LOCAL_DISK_D/JAVA/Libraries/fontawesomefx-glyphsbrowser-all-1.0.jar!/" />
+      <root url="file://D:/LOCAL_DISK_D/JAVA/Libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/LOCAL_DISK_D/JAVA/Libraries" />
+    </SOURCES>
+    <jarDirectory url="file://D:/LOCAL_DISK_D/JAVA/Libraries" recursive="false" />
+    <jarDirectory url="file://D:/LOCAL_DISK_D/JAVA/Libraries" recursive="false" type="SOURCES" />
+  </library>
+</component>

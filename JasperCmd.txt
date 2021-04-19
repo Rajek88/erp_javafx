@@ -1,0 +1,3 @@
+select customers.Customer_ID,bills.itemName,bills.itemCode,bills.itemRate,bills.itemQuan,bills.itemTax,bills.itemAmount,customers.custname,customers.custphone,customers.custaddress from bills
+inner join customers on bills.Customer_ID=customers.Customer_ID
+order by bills.itemName asc

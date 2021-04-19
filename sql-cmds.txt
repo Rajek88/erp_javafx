@@ -1,0 +1,7 @@
+CREATE TABLE CUSTOMERS(
+   Customer_ID int not null auto_increment,
+   custname varchar(300) not null,
+   custphone int not null,
+   custaddress varchar(300) not null,
+  primary key(Customer_ID)
+)engine=innodb

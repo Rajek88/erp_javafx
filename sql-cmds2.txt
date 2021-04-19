@@ -1,0 +1,12 @@
+CREATE TABLE BILLS(
+   Order_ID int not null auto_increment,
+   itemName varchar(300) not null,
+   itemCode int not null,
+   itemRate varchar(300) not null,
+  itemQuan varchar(300) not null,
+  itemtax varchar(300) not null,
+  itemAmount varchar(300) not null,
+  custphone int,
+  primary key(Order_ID),
+  foreign key(custphone) REFERENCES customers(Customer_ID)
+)engine=innodb
